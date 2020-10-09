@@ -1,0 +1,2 @@
+# Loan-Eligibility-Problem
+When a customer applies for a loan in a bank, the bank needs to go through their previous records to determine whether the customer will be able to repay the loan or not. This process involves extensive statistical analysis. Using statistical models to determine whether or not to grant the loan by checking their financal habits based on likelihood of the loan being repaid.
